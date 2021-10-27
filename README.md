@@ -17,6 +17,7 @@ to be the best version of myself.
 <b> "Dream, pray, believe, work hard, and make it happen." </b>
 <br></br>
 📫 Reach me at: palijama.vangelia@gmail.com
+
 <!---
 vangeliapeace/vangeliapeace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
