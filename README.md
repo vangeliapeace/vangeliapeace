@@ -16,6 +16,7 @@ to be the best version of myself.
 <br></br>
 <b> "Dream, pray, believe, work hard, and make it happen." </b>
 <br></br>
+🎨 Check out my design portofolio: https://bit.ly/DesignByVangelia
 📫 Reach me at: palijama.vangelia@gmail.com
 
 <!---
