@@ -1,5 +1,5 @@
-<h1> printf("Hello world!") </h1>
-<h2> ✨ Hi, I’m Vangelia Peace Palijama. ✨ </h2>
+<h2> printf("Hello world!") </h2>
+<h3> ✨ Hi, I’m Vangelia Peace Palijama. ✨ </h3>
 
 <b> Get to know me: </b>
 🌱 I’m currently majoring Computer Science Program (est. 2019) at BINUS University.
@@ -12,7 +12,7 @@
 📚 High curiosity makes me love learning new things, having a lot of knowledge gives me the best feeling.
 
 I'm not the best, but I am always willing to be a great, well-mannered and impactful person in the future; 
-to be the best version of myself. 😄
+to be the best version of myself.
 
 "Dream, pray, believe, work hard, and make it happen."
 
