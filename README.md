@@ -10,12 +10,12 @@
 - 🤩 Aside of being a programming student, I really love to write, read and watch movies. They are the best for healing.
 - 🙌 I really love interacting with people. Talking with them gave me a lot of new perspectives on the world!
 - 📚 High curiosity makes me love learning new things, having a lot of knowledge gives me the best feeling.
-
-I'm not the best, but I am always willing to be a great, well-mannered and impactful person in the future; 
+<br>
+I'm not the best, but I am always willing to be a great, well-mannered and impactful person in the future; <br>
 to be the best version of myself.
-
+<br>
 "Dream, pray, believe, work hard, and make it happen."
-
+<br>
 📫 Reach me at: palijama.vangelia@gmail.com
 <!---
 vangeliapeace/vangeliapeace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
