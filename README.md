@@ -14,8 +14,8 @@
 I'm not the best, but I am always willing to be a great, well-mannered and impactful person in the future; <br>
 to be the best version of myself.
 <br></br>
-"Dream, pray, believe, work hard, and make it happen."
-<br>
+<b> "Dream, pray, believe, work hard, and make it happen." </b>
+<br></br>
 📫 Reach me at: palijama.vangelia@gmail.com
 <!---
 vangeliapeace/vangeliapeace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
