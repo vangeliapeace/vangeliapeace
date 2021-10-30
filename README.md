@@ -4,7 +4,7 @@
 <b> Get to know me: </b>
 - 🌱 I’m currently majoring Computer Science Program (est. 2019) at BINUS University.
 - 💻 I'm taking Artificial Intelligence class (est. 2021) as my minor program.
-- 👀 I’m interested in learning things related to Artificial Intelligence, Mobile, Web and Design. It's fun!
+- 👀 I’m interested in learning things related to Artificial Intelligence, Mobile Development and Design. It's fun!
 - 👩🏻‍💻 Until now, I've been friends with C/C++, Java, SQL, HTML, CSS, and Java programming language.
 
 <b> Wait, there's more! </b>
