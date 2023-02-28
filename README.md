@@ -5,7 +5,7 @@
 - 🌱 I’m currently majoring Computer Science Program (est. 2019) at BINUS University.
 - 💻 I'm taking Artificial Intelligence class (est. 2021) as my minor program.
 - 👀 I’m interested in learning things related to Artificial Intelligence, Mobile Development and Design. It's fun!
-- 👩🏻‍💻 Until now, I've been friends with C/C++, Java, SQL, HTML, CSS, and Java programming language.
+- 👩🏻‍💻 Until now, I've been friends with C/C++, Python, SQL, HTML, CSS, PHP, Kotlin and Java programming language.
 
 <b> Wait, there's more! </b>
 - 🤩 Aside of being a programming student, I really love to write, read and watch movies. They are the best for healing.
